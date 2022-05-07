@@ -3,6 +3,8 @@ subject: 'cat:math.NT'
 
 # 検索キーワード
 keywords:
+    dynamics: 1
+    Hodge theory: 1
 
 # 通知の閾値
 score_threshold: 0
