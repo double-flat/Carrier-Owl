@@ -1,10 +1,14 @@
 # arxivの学問領域の指定
-subject: 'cat:math.NT'
+subject: 'cat:math.NT OR cat:math.AG'
 
 # 検索キーワード
 keywords:
     dynamics: 1
     Hodge theory: 1
+    non archimedean: 1
+    p-adic: 1
+    number field: 1
+    zeta function: 1
 
 # 通知の閾値
 score_threshold: 0
