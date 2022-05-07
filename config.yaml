@@ -1,11 +1,8 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:math.NT'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
 
 # 通知の閾値
 score_threshold: 0
