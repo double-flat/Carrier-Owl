@@ -1,9 +1,27 @@
 # arxivの学問領域の指定
-subject: 'cat:math.NT'
+subject: 'cat:math.NT OR cat:math.AG OR cat:math.DS'
 
 # 検索キーワード
 keywords:
-    a: 0
+    p-adic: 1
+    p adic: 1
+    non archimedean: 1
+    differential equation: 1
+    Hodge theory: 1
+    Berkovich: 1
+    #数論一般
+    zeta: 1
+    L: 1
+    modular form: 1
+    class number: 1
+    class group: 1
+    period: 1
+    continued fraction: 1
+    #人名
+    Silverman: 1
+    Iwasawa: 1
+    Langlands: 1
+    
 
 # 通知の閾値
-score_threshold: -1
+score_threshold: 0
