@@ -1,17 +1,9 @@
 # arxivの学問領域の指定
-subject: 'cat:math.NT OR cat:math.AG'
+subject: 'cat:math.NT'
 
 # 検索キーワード
 keywords:
-    dynamics: 1
-    Hodge theory: 1
-    non archimedean: 1
-    p-adic: 1
-    number field: 1
-    zeta function: 1
-    modular form: 1
-    Berkovich: 1
-    differential equation: 1
+    a: 0
 
 # 通知の閾値
 score_threshold: 0
