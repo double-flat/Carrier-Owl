@@ -1,5 +1,5 @@
 # arxivの学問領域の指定
-subject: 'cat:math.NT OR cat:math.AG OR cat:math.DS'
+subject: 'cat:math.NT OR cat:math.AG'
 
 # 検索キーワード
 keywords:
